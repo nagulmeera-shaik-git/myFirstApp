@@ -15,7 +15,7 @@ intex.html -> main.ts -> app.ts -->app.html/css
 To generate component
 ----------------------
 ng generate component "nagulComponent"
-
+## DataBinding
 Data Binding is the process of data from tsfile of app component to HTML view of component
 1)interpolation
 2)property binding
